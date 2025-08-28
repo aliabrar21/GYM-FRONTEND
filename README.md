@@ -103,5 +103,7 @@ npm start
 ## 📬 Contact
 
 For any queries or contributions, feel free to reach out:
+
 **Developer:** Abrar Ali
+
 **Email:** sonuabrar1999@gmail.com
