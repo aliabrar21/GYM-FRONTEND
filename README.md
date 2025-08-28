@@ -1,8 +1,4 @@
-Perfect 👍 You can separate your **frontend repo** and **backend repo** and mention the backend GitHub link in your README.
-Here’s the updated **README.md** for your **frontend repo**, with backend GitHub URL included:
-
-````markdown
-# 🏋️ Gym Website
+🏋️ Gym Website
 
 A modern and responsive **Gym Website** built with **React.js (Frontend)** and **Node.js + Express.js (Backend)**.  
 The project includes a **BMI Calculator** for health tracking and a **Contact Us Form** that sends user queries directly to Gmail.
